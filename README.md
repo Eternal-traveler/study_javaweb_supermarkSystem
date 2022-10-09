@@ -1,0 +1,2 @@
+# study_javaweb_supermarkSystem
+这个是我的第一个项目，比较有纪念价值，但是没有什么好的参考价值
